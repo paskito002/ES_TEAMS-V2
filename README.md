@@ -122,5 +122,5 @@
 ## Community and Support
 
 FOLLOW ES_TEAMS-V2 WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y))
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
