@@ -31,17 +31,17 @@
 
 ### SERVER 1
  
-<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href=""><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Link Unavailable" width="110"></a>   
 
-<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href=""><img src="https://img.shields.io/badge/QR CODE-green" alt="Link Unavailable " width="90"></a>
 
 ### SERVER 2 
 ### GET SESSION ID HERE
 
-<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href=""><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Link Unavailable " width="110"></a>   
 
-<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
-### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
+<a href=""><img src="https://img.shields.io/badge/QR CODE-blue" alt="Link Unavailable" width="90"></a>
+### **SESSION ID AND PAIR CODE IS CURRENTLY UNAVAILABLE AT THE MOMENT,WE ARE TRYING HARD TO BRING THIS FEATURE WORKING. KINDLY BE PATIENT AND COME BACK LATER**
 
 
 ### DEPLOY ON RENDER
