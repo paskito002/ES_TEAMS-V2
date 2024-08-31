@@ -46,7 +46,7 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBwPJgIRDjE?si=Y7MkCFsvFbnO7j7t)
 
 ## WATCH PANEL TUTORIAL VIDEO.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](link loading....)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](Video is dropping soon)
 
 
     <h2 align="center"> ⚠️ NOTE  </h2>
