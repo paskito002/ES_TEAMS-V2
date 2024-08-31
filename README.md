@@ -34,14 +34,14 @@
 <a href=""><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator" width="110"></a>   
 
 
-### **DONT FORGET TO FORK THE REPL LINK **
+### **DONT FORGET TO FORK THE REPL LINK WHEN GETTING SESSION ID**
 
 
 ### DEPLOY ON PANEL
 
 1. If you don't have an account in PANEL, create one and deploy.
     <br>
-    <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=Bot-hosting&logoColor=white'/></a>
 ## WATCH VIDEO ON HOW TO GET YOUR SESSION ID.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBwPJgIRDjE?si=Y7MkCFsvFbnO7j7t)
 
