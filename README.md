@@ -71,6 +71,7 @@
     <br>
     <a href='https://replit.com/github/paskito002/ES_TEAMS-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
+### **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## ES_TEAMS-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
