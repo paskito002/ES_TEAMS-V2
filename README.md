@@ -27,62 +27,27 @@
 
 <a href='https://github.com/paskito002/ES_TEAMS-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID HERE
+### 2. GET SESSION ID ON REPLIT
 
-### SERVER 1
+### REPLIT SERVER 1
  
-<a href=""><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Link Unavailable" width="110"></a>   
-
-<a href=""><img src="https://img.shields.io/badge/QR CODE-green" alt="Link Unavailable " width="90"></a>
-
-### SERVER 2 
-### GET SESSION ID HERE
-
-<a href=""><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Link Unavailable " width="110"></a>   
-
-<a href=""><img src="https://img.shields.io/badge/QR CODE-blue" alt="Link Unavailable" width="90"></a>
-### **SESSION ID AND PAIR CODE IS CURRENTLY UNAVAILABLE AT THE MOMENT,WE ARE TRYING HARD TO BRING THIS FEATURE WORKING. KINDLY BE PATIENT AND COME BACK LATER**
+<a href=""><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator" width="110"></a>   
 
 
-### DEPLOY ON RENDER
+### **DONT FORGET TO FORK THE REPL LINK **
 
-1. If you don't have an account in RENDER, create one and deploy.
+
+### DEPLOY ON PANEL
+
+1. If you don't have an account in PANEL, create one and deploy.
     <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-## Watch Render Tutorial Video.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/@esteams)
+    <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+## WATCH VIDEO ON HOW TO GET YOUR SESSION ID.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBwPJgIRDjE?si=Y7MkCFsvFbnO7j7t)
 
-### DEPLOY ON KOYEB
+## WATCH PANEL TUTORIAL VIDEO.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](link loading....)
 
-1. If you don't have an account in KOYEB, create one and deploy.
-    <br>
-    <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-## Watch Koyeb Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/@esteams)
-
-
-### DEPLOY ON CLEVER CLOUD
-
-1. If you don't have an account in Clever Cloud, create one and deploy.
-    <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
-
-### DEPLOY ON HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/paskito002/ES_TEAMS-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://replit.com/github/paskito002/ES_TEAMS-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/paskito002/ES_TEAMS-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## ES_TEAMS-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
