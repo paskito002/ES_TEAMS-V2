@@ -31,10 +31,10 @@
 
 ### REPLIT SERVER 1
  
-<a href=""><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator" width="110"></a>   
+<a href="https://replit.com/@etimpaschal95/Es_Teams-Md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
-### **DONT FORGET TO FORK THE REPL LINK WHEN GETTING SESSION ID**
+### **DONT FORGET TO FORK THE REPL LINK AND USE PAIR CODE FORMAT WHEN GETTING SESSION ID**
 
 
 ### DEPLOY ON PANEL
