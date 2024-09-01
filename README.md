@@ -81,11 +81,8 @@
 <a href="https://t.me/examsolutionteam"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://imgur.com/blRyis0.gif'/></a><a><img src='https://imgur.com/blRyis0.gif'/></a>
-# 
 
 <br>
-<a><img src=https://telegra.ph/file/fb739bbadffa71061521d.jpg'/></a>
 
 * [🧑‍💻 Follow ES TEAMS-V2 Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
