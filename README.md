@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ ES_TEAMS-V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PASCHAL+JE;RELEASED+DATE+29%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/fb739bbadffa71061521d.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{paskito002}/count.svg" alt="paskito002 :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/paskito002/followers"><img title="Followers" src="https://img.shields.io/github/followers/paskito002?color=red&style=flat-square"></a>
@@ -18,7 +17,6 @@
 </p>
 <p align='center'>
     </p>
-<a><img src='https://imgur.com/blRyis0.gif'/></a><a><img src='https://imgur.com/blRyis0.gif'/></a>
 <p align="center">
 
  ## ES_TEAMS-V2 Deployment Methods
@@ -87,7 +85,7 @@
 # 
 
 <br>
-<a><img src=https://imgur.com/blRyis0.gif'/></a><a><img src='https://imgur.com/blRyis0.gif'/></a>
+<a><img src=https://telegra.ph/file/fb739bbadffa71061521d.jpg'/></a>
 
 * [🧑‍💻 Follow ES TEAMS-V2 Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
@@ -95,8 +93,6 @@
 
 * [✅ Join Public Group ⚡](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
-  <a><img src='https://imgur.com/blRyis0.gif'/></a><a><img src='https://imgur.com/blRyis0.gif'/></a>
-  
 
 - *ES_TEAMS-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
@@ -105,7 +101,6 @@
   #### ```ES TEAMS TECH PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/paskito002/count.svg)
 
-<a><img src='https://imgur.com/blRyis0.gif'/></a><a><img src='https://imgur.com/blRyis0.gif'/></a>
 
 ## Community and Support
 
