@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ ES_TEAMS-V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PASCHAL+JE;RELEASED+DATE+29%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/b3f5ad6845bfea35164b0.jpg"/> 
+<img src="https://telegra.ph/file/fb739bbadffa71061521d.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{paskito002}/count.svg" alt="paskito002 :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/paskito002/followers"><img title="Followers" src="https://img.shields.io/github/followers/paskito002?color=red&style=flat-square"></a>
