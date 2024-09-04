@@ -25,7 +25,7 @@
 
 <a href='https://github.com/paskito002/ES_TEAMS-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID ON WEB SERVER
+### 2. GET SESSION ID
 
 ### WEB SERVER 
 <a href="https://es-teams-v2-y76h.onrender.com"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
@@ -33,8 +33,8 @@
 ### REPLIT SERVER 
 <a href="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
 
-## QR CODE IS NOW FIXED ON WEB SERVER. 
-Get your Session Id faster on WEB SERVER
+QR CODE IS NOW FIXED ON WEB SERVER... 
+Get your Session Id faster on WEB SERVER 
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
