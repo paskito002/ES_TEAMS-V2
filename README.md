@@ -41,9 +41,7 @@ An easiest method to get ES TEAMS-V2 Session Id without stress
 
 ### WEB SERVER
 
-
-    <a href="https://es-teams-v2-y76h.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
-
+Coming Soon.....
    
 ### 3. DEPLOY ON PANEL
 
