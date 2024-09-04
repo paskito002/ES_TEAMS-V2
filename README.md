@@ -28,10 +28,12 @@
 ### 2. GET SESSION ID ON WEB SERVER
 
 ### WEB SERVER 
- 
-<a href="https://es-teams-v2-y76h.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
+<a href="https://es-teams-v2-y76h.onrender.com"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
 
-## QR CODE IS NOW FIXED. YOU CAN USE EITHER QR CODE OR PAIR CODE TO GET YOUR SESSION ID
+### REPLIT SERVER 
+<a href="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
+
+## QR CODE IS NOW FIXED. YOU CAN USE EITHER QR CODE OR PAIR CODE TO GET YOUR SESSION ID ON WEB SERVER
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
@@ -40,7 +42,7 @@
 1. If you don't have an account in PANEL, create one and deploy.
     <br>
     <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
-## WATCH VIDEO ON HOW TO GET YOUR SESSION ID.
+## WATCH VIDEO ON HOW TO GET YOUR SESSION ID ON REPLIT.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBwPJgIRDjE?si=Y7MkCFsvFbnO7j7t)
 
 ## WATCH PANEL TUTORIAL VIDEO.
