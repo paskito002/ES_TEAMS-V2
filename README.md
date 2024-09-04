@@ -33,8 +33,7 @@
 ### REPLIT SERVER 
 <a href="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
 
-QR CODE IS NOW FIXED ON WEB SERVER... 
-Get your Session Id faster on WEB SERVER 
+GET YOUR SESSION ID FASTER THROUGH WEB SERVER...
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
