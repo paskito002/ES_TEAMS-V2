@@ -75,7 +75,7 @@ An easiest method to get ES TEAMS-V2 Session Id without stress.
 
 * [🧑‍💻 Follow ES TEAMS-V2 Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
-* [🧑‍💻 Join ES TEAMS-V2 Telegram Group 🧑‍💻](https://t.me/esteams24)
+* [🧑‍💻 Follow ES TEAMS TECH on Youtube 🧑‍💻](https://youtube.com/@esteams)
 
 * [✅ Join Public Group ⚡](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
 
