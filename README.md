@@ -28,7 +28,7 @@
 ### 2. GET SESSION ID
 
 ### WEB SERVER 
-<a href="https://es-teams-v2-y76h.onrender.com"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
+<a href="Link Unavailable"><img src="https://img.shields.io/badge/SERVICE_UNAVAILABLE-blue" alt="Click Here to Get Qr/Pair-Code" width="110"></a> 
 
 ### REPLIT SERVER 
 <a href="https://replit.com/@etimpaschal95/EsTeams-Md-session-generator"><img src="https://img.shields.io/badge/GET_SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a> 
